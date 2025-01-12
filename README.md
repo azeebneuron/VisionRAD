@@ -5,3 +5,6 @@
 - [Vision-Language Models for Medical Report
 Generation and Visual Question Answering: A Review](https://arxiv.org/pdf/2403.02469)
 
+## Models
+- [Qwen-2B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct)
+- [PaliGemma](https://huggingface.co/google/paligemma-3b-pt-224-jax)
